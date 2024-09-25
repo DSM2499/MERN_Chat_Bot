@@ -42,3 +42,5 @@ This project is the result of my passion for exploring Large Language Models (LL
 - **Role-based Access Control (RBAC):** Implementing roles for admin and regular users.
 - **Customizable AI Model:** Allowing users to fine-tune chatbot behavior.
 - **Mobile App:** Extending functionality to mobile platforms using React Native.
+
+![](https://github.com/DSM2499/MERN_Chat_Bot/blob/main/Photos/Screenshot.png)
