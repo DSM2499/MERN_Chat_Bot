@@ -38,9 +38,4 @@ This project is the result of my passion for exploring Large Language Models (LL
 - **Password Encryption**: User passwords are stored securely after being hashed using bcrypt.
 - **Session Management**: Cookies are used to maintain session data, ensuring a smooth user experience without compromising security.
 
-## Future Enhancements
-- **Role-based Access Control (RBAC):** Implementing roles for admin and regular users.
-- **Customizable AI Model:** Allowing users to fine-tune chatbot behavior.
-- **Mobile App:** Extending functionality to mobile platforms using React Native.
-
 ![](https://github.com/DSM2499/MERN_Chat_Bot/blob/main/Photos/Screenshot.png)
